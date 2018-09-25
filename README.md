@@ -15,19 +15,19 @@ These functions need not be something analytic nor should look like any standard
 ML is useful for forecasting, finding patterns, function fitting, classifying and plenty more.
 
 Machine Learning usually goes in the following steps:
-	1. What is your problem?
-	2. Getting and preparing your data
-	3. Try out different algorithms (or think of a few suitable ones)
-	4. Evaluate your results
-	5. Improve your results
-	6. Start all over again (usually from 3)
-	7. ???
-	8. Profit
+1. What is your problem?
+2. Getting and preparing your data
+3. Try out different algorithms (or think of a few suitable ones)
+4. Evaluate your results
+5. Improve your results
+6. Start all over again (usually from 3)
+7. ???
+8. Profit
 
 Today, we will go through the above steps (Till 4) and solve a problem.
 
-#ALL ABOARD THE TITANIC
-~~~~~~~~~~~~~~~~~~~~~~~
+ALL ABOARD THE TITANIC
+======================
 
 Let's see if you can survive the titanic. Download the data set from my github, or https://www.kaggle.com/c/titanic/data 
 
