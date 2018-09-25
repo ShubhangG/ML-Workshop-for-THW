@@ -9,28 +9,31 @@ But I am going to show you how you can use it in your daily life (or scientific 
 
 **MACHINE LEARNING, WHAT IS?**
 
-Machine learning is a glorified way of finding a function iteratively. Basically, Newton's method, on steroids.
+Machine learning is a glorified way of finding a function iteratively. (Basically, Newton's method, on steroids).
 These functions need not be something analytic nor should look like any standard function you think of when you hear the word function.
 
 ML is useful for forecasting, finding patterns, function fitting, classifying and plenty more.
 
-Today, we will try and solve a problem, which you may have experienced as a scientist.
+Machine Learning usually goes in the following steps:
+	1. What is your problem?
+	2. Getting and preparing your data
+	3. Try out different algorithms (or think of a few suitable ones)
+	4. Evaluate your results
+	5. Improve your results
+	6. Start all over again (usually from 3)
+	7. ???
+	8. Profit
+
+Today, we will go through the above steps (Till 4) and solve a problem.
+
+#ALL ABOARD THE TITANIC
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Let's see if you can survive the titanic. Download the data set from my github, or https://www.kaggle.com/c/titanic/data 
 
 
-_DUPLICATE ENTRIES_ 
 
-By Duplicate, I don't mean EXACT match, it could be a bit off. You could have two things mapping to the same entry while your computer thinks they are completely different. 
 
-Simulation data for 1000K Hyd
-Sim data for 1000K Hydrogen
-Simulation dat for 1kK H
 
-THEY ALL MATCH TO THE SAME SIMULATION DATA!
 
-But more than cleaning up records I want you to take away from this workshop the tools and approaches that are taken when solving a problem using machine learning.
 
-STEP 1:
-Collecting the data
-
-We will be working with toy data I made.
-I have provided a link with all names 
