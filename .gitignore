@@ -154,5 +154,7 @@ tags
 # Persistent undo
 [._]*.un~
 
+#Personal
+.csv
 
 # End of https://www.gitignore.io/api/vim,python,jupyternotebook
