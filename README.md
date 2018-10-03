@@ -32,6 +32,7 @@ ALL ABOARD THE TITANIC
 Let's see if you can survive the titanic. Download the data set from my github, or https://www.kaggle.com/c/titanic/data 
 
 
+# The whole tutorial is in the ipython notebook. Install Jupyter and open that! #
 
 
 
